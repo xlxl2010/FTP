@@ -1,0 +1,7 @@
+Manifest-Version: 1.0 
+Class-Path: log4j-1.2.13.jar commons-net-ftp-2.0.jar 
+  commons-java-1.5.5.jar commons-logging.jar
+  commons-collections-3.2.jar quartz-1.6.5.jar
+Created-By: 1.5.0_12 (Sun Microsystems Inc.)
+Main-Class: run.Run
+
